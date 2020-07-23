@@ -1,0 +1,66 @@
+import '../screens/actionScreen.dart';
+
+class PostRunNavigator {
+  static List<ActionScreen> list = [
+    ActionScreen(
+      title: 'Quad Stretch Right',
+      number: 7,
+      gifDirectory: "assets/gifs/quad-stretch-right.gif",
+      frameMin: 0,
+      frameMax: 6,
+      milisecondAnimation: 2500,  
+      milisecondTimer: 2500,
+      sessionNumber: 1,
+    ),
+    ActionScreen(
+      title: 'Quad Stretch Left',
+      number: 7,
+      gifDirectory: "assets/gifs/quad-stretch-left.gif",
+      frameMin: 0,
+      frameMax: 6,
+      milisecondAnimation: 2500,  
+      milisecondTimer: 2500,
+      sessionNumber: 2,
+    ),
+    ActionScreen(
+      title: 'Forward Bend',
+      number: 8,
+      gifDirectory: "assets/gifs/stand-and-reach.gif",
+      frameMin: 0,
+      frameMax: 6,
+      milisecondAnimation: 3000,
+      milisecondTimer: 3000,
+      sessionNumber: 3,
+    ),
+    ActionScreen(
+      title: 'Knee To Chest Stretch',
+      number: 10,
+      gifDirectory: "assets/gifs/knee-to-chest.gif",
+      frameMin: 0,
+      frameMax: 11, 
+      milisecondAnimation: 3000,
+      milisecondTimer: 3000,
+      sessionNumber: 4,
+    ),
+    ActionScreen(
+      title: "Child's Pose",
+      number: 6,
+      gifDirectory: "assets/gifs/child-pose-min.gif",
+      frameMin: 0,
+      frameMax: 5,
+      milisecondAnimation: 5000,
+      milisecondTimer: 5000,
+      sessionNumber: 5,
+    ),
+    ActionScreen(
+      title: 'Butterfly Stretch',
+      number: 8,
+      gifDirectory: "assets/gifs/butterfly-stretch.gif",
+      frameMin: 0,
+      frameMax: 6,
+      milisecondAnimation: 3000,
+      milisecondTimer: 3000,
+      sessionNumber: 6,
+    ),
+  ];
+}
