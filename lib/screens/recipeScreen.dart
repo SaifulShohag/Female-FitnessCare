@@ -55,28 +55,8 @@ class DietRecipeScreen extends StatelessWidget {
                         height: 70.0,
                       ),
                       ContentCard(
-                        title: "Full Body", 
+                        title: "Comming Soon!", 
                         imageDir: "assets/images/full-body.png", 
-                        onPress: null,
-                      ),
-                      ContentCard(
-                        title: "ABS Advance", 
-                        imageDir: "assets/images/abs.png", 
-                        onPress: null,
-                      ),
-                       ContentCard(
-                        title: "Butt Advance", 
-                        imageDir: "assets/images/butt.jpg", 
-                        onPress: null,
-                      ),
-                      ContentCard(
-                        title: "Arm Advance", 
-                        imageDir: "assets/images/arm.jpg", 
-                        onPress: null,
-                      ),
-                      ContentCard(
-                        title: "Thigh Advance", 
-                        imageDir: "assets/images/thigh.png", 
                         onPress: null,
                       ),
                     ],

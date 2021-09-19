@@ -6,7 +6,7 @@ import '../screens/recipeScreen.dart';
 import '../screens/homeScreen.dart';
 
 class BottomNavBar extends StatelessWidget {
-  final Widget child;
+  final Widget child; 
   BottomNavBar({@required this.child});
 
   @override

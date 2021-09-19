@@ -1,5 +1,4 @@
 import 'package:Meditation/constants.dart';
-import 'package:Meditation/screens/actionScreen.dart';
 import 'package:Meditation/widgets/bottom_nav_bar.dart';
 import 'package:Meditation/widgets/sessionCard.dart';
 import '../../sessions-navigations/dynamic-list.dart';

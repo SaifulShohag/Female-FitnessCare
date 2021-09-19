@@ -1,4 +1,4 @@
-package com.example.Meditation
+package com.saifulfools.fitnessCare
 
 import io.flutter.embedding.android.FlutterActivity
 

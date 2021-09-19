@@ -17,16 +17,18 @@ dependencies:
   flutter_gifimage: ^1.0.0
 
 dev_dependencies:
+  change_app_package_name: ^0.1.3
+  flutter_launcher_icons: 0.8.1
   flutter_test:
     sdk: flutter
 
 flutter:
-  uses-material-design: true
+  uses-material-design: true 
   
   assets:
     - assets/icons/
     - assets/images/
-    - assets/gifs/ 
+    - assets/gifs/  
 
   fonts:
     - family: Cairo
@@ -38,3 +40,9 @@ flutter:
           weight: 700
         - asset: assets/fonts/Cairo/Cairo-Black.ttf
           weight: 900
+
+flutter_icons: 
+  android: true
+  ios: true
+  image_path: "assets/fitnessCare_logo.jpg"
+  # android: "launcher_icon"
