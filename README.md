@@ -1,16 +1,5 @@
-# Meditation
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_20210919_182249_com example Meditation](https://user-images.githubusercontent.com/33428891/179357700-c16b1ac6-0681-4023-86c2-76f46718564b.jpg)
+![Screenshot_20210919_182300_com example Meditation](https://user-images.githubusercontent.com/33428891/179357705-febccf9f-952e-49fe-9ba3-14c14ca06112.jpg)
+![Screenshot_20210919_182308_com example Meditation](https://user-images.githubusercontent.com/33428891/179357722-2e0473f7-53a9-473b-b46f-38579897b341.jpg)
+![Screenshot_20210919_182423_com example Meditation](https://user-images.githubusercontent.com/33428891/179357726-029bc37b-f3f7-418d-a612-0454dc9faaff.jpg)
+![Screenshot_20210919_182433_com example Meditation](https://user-images.githubusercontent.com/33428891/179357728-d23aaa0c-f0d3-42c5-9eb2-3a31297619c4.jpg)
